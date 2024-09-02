@@ -1,0 +1,58 @@
+1. 
+Which of the following can read and render HTML web pages?
+C. web browsers
+options:
+"A. Server",
+"B. head Tak".
+"C. web browser",
+"D. empty"
+
+
+2. 
+The latest HTML standard is ?
+B. HTML5.0
+options:
+"A. HTML4.0",
+"B. HTML5.0",
+"C. XML",
+"D. SGML"
+
+
+3. 
+Simple network management protocol uses which of the following port number ?
+D. 161
+options:
+"A. 164",
+"B. 163",
+"C. 160",
+"D. 161"
+
+
+4. 
+Which of the following can read and render HTML web pages?
+A. For server-side programming
+options:
+"A. For server-side programming",
+"B. For client-side programming",
+"C. both a and b",
+"D. NONE"
+
+
+5. 
+Identify the incorrect HTML tag among the following
+C. < list >
+options:
+"A. < input >",
+"B. < select >",
+"C. < list >",
+"D. < textarea >"
+
+
+6. 
+What are variables used in JavaScript programs
+B. Store numbers, dates, and other values.
+options:
+"A. Varying randomly",
+"B. Store numbers, dates, and other values.",
+"C. Used as header files",
+"D. none of the above"
